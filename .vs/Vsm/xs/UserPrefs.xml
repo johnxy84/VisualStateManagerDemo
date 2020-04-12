@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D1177988-1B47-472A-AED5-874D5AEB0A67}|Default">
+  <MonoDevelop.Ide.ItemProperties.Vsm.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vsm/MainPage.xaml">
+    <Files>
+      <File FileName="Vsm/MainPage.xaml" Line="18" Column="32" />
+      <File FileName="Vsm/MainPage.xaml.cs" Line="18" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vsm" expanded="True">
+            <Node name="Vsm" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Vsm.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F73919BF-A357-42BB-9D45-3A2E49BC30DC" />
+</Properties>

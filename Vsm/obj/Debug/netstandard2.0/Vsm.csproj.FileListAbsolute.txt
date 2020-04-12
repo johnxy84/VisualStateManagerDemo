@@ -1,0 +1,14 @@
+/Users/j.okoroafor/Projects/Vsm/Vsm/bin/Debug/netstandard2.0/Vsm.deps.json
+/Users/j.okoroafor/Projects/Vsm/Vsm/bin/Debug/netstandard2.0/Vsm.dll
+/Users/j.okoroafor/Projects/Vsm/Vsm/bin/Debug/netstandard2.0/ref/Vsm.dll
+/Users/j.okoroafor/Projects/Vsm/Vsm/bin/Debug/netstandard2.0/Vsm.pdb
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/Vsm.csprojAssemblyReference.cache
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/Vsm.csproj.CoreCompileInputs.cache
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/Vsm.AssemblyInfoInputs.cache
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/Vsm.AssemblyInfo.cs
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/Vsm.dll
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/ref/Vsm.dll
+/Users/j.okoroafor/Projects/Vsm/Vsm/obj/Debug/netstandard2.0/Vsm.pdb
